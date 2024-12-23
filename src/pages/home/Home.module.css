@@ -1,0 +1,15 @@
+.sectionContainer {
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.settingsButtonContainer {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  margin-right: 3em;
+  margin-bottom: 2em;
+}
